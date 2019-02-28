@@ -1,0 +1,6 @@
+name: AreaShopLWCHook
+main: tk.dblosevn.bukkit.subtopewdiepie.areashoplwc.AreaShopLWCHook
+version: 1.0.0
+author: dblosevn
+description: Hook AreaShop Into LWC.
+depend: [AreaShop,LWC]
